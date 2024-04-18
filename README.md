@@ -1,5 +1,6 @@
 # NeuralFinalProject
 TEAM MEMBER :AISHWARYA PASUMARTHY-700759282
+
 Problem Statement:
 Breast cancer, a global health challenge, demands early detection for effective treatment. Current classification methods lack precision, especially in recognizing subtle tumor variations. To overcome this, the challenge is to create a robust neural network-based system. Neural networks offer nuanced pattern recognition, vital for distinguishing between benign and malignant tumors.
 
